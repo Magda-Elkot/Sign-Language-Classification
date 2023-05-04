@@ -3,6 +3,7 @@
   The model is designed using a convolutional neural  network (CNN) architecture, and it is trained on the Sign Language MNIST dataset.
   
 ## Dataset
+  The dataset used for this project can be found at : https://www.kaggle.com/datasets/datamunge/sign-language-mnist
   The Sign Language MNIST dataset contains 27,455 grayscale images of sign language gestures, each with a resolution of 28x28 pixels. 
   The images are labeled according to the corresponding sign language gesture, with 24 unique labels in total.
 
